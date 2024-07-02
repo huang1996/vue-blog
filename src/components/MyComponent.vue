@@ -1,5 +1,5 @@
 <template>
-  <router-view></router-view>
+    <h1>MyComponent</h1>
 </template>
 
 <style scoped>
@@ -8,5 +8,5 @@
 
 
 <script setup lang="ts">
-console.log("ok")
+
 </script>

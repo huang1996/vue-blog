@@ -1,5 +1,7 @@
 <template>
-  <router-view></router-view>
+    <h1>Home</h1>
+    <br>
+    <router-link to="/login">登录</router-link>
 </template>
 
 <style scoped>
@@ -8,5 +10,5 @@
 
 
 <script setup lang="ts">
-console.log("ok")
+
 </script>
